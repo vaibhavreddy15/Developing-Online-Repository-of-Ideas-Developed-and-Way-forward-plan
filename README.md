@@ -7,7 +7,7 @@ Each student can submit multiple Ideas.<br>
 
 # Steps to submit Idea 
   
-## Step 1 : fork the repositor <br>
+## Step 1 : fork the repository <br>
 ## step 2 : create your Folder with your Idea title <br>
 ## stpe 3 : upload Your Idea and commit changes <br>
 ## step 4 : create a pull request <br>
